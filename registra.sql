@@ -1,0 +1,2 @@
+
+INSERT INTO `sanluisb_sigest`.`notas1b` (`idnotas1b`, `tar`, `aic`, `agc`, `lec`, `pbc`, `estudiante_idestudiante`, `materias_idmaterias`, `materias_curso_idcurso`, `materias_personal_idpersonal`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '8', '10', '7', '2');
